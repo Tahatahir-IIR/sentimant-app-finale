@@ -1,0 +1,2 @@
+# La distribution source ne contient que le code du paquet : ni les tests, ni les données, ni le modèle.
+prune tests
