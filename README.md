@@ -9,4 +9,4 @@ tête de file. Le dépôt grandit chaque semaine ; rien n'est jeté.
 | Rôle | Nom | Identifiant GitHub | Travail de la semaine 1 |
 | --- | --- | --- | --- |
 | Membre A | Taha Tahir | Tahatahir-IIR | Initialisation du dépôt, environnement et cadrage |
-| Membre B | *à compléter* | *à compléter* | |
+| Membre B | KHALDOUN Soufiane | Soufiane205 | Clone, vérification environnement et cadrage |
